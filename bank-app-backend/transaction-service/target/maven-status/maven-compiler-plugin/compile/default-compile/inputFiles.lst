@@ -1,0 +1,9 @@
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/catalog/models/TransactionListener.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/catalog/models/Category.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/catalog/TransactionResource.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/catalog/models/Transaction.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/LoyaltyApplication.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/ReadinessCheck.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/LivenessCheck.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/catalog/dao/TransactionDao.java
+/mnt/mac/src/adv/cc/renamed/loyalty/bank-app-backend/transaction-service/src/main/java/com/ibm/codey/bank/catalog/models/TransactionPK.java
