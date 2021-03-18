@@ -1,9 +1,0 @@
-com/ibm/codey/bank/catalog/dao/TransactionDao.class
-com/ibm/codey/bank/ReadinessCheck.class
-com/ibm/codey/bank/LivenessCheck.class
-com/ibm/codey/bank/catalog/models/Category.class
-com/ibm/codey/bank/catalog/TransactionResource.class
-com/ibm/codey/bank/LoyaltyApplication.class
-com/ibm/codey/bank/catalog/models/TransactionListener.class
-com/ibm/codey/bank/catalog/models/Transaction.class
-com/ibm/codey/bank/catalog/models/TransactionPK.class
